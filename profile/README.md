@@ -12,7 +12,9 @@
 > This is the place where you can contact us if you wish, but before that you should have learned that you should
 > communicate with us in the framework specified here (git).
 
-
+<div align="center">
+<img src="profile/img/designheader.jpg" width="100%" style="text-align-all:center; ">
+</div>
 <div align="center">
 <img src="profile/img/Design.png" width="20%" style="text-align-all:center; ">
 </div>
