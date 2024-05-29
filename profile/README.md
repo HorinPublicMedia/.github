@@ -14,12 +14,12 @@
 
 
 <div align="center">
-<img src="profile/img/Design.png" width="12%" style="text-align-all:center; ">
+<img src="profile/img/Design.png" width="20%" style="text-align-all:center; ">
 </div>
 in product design, ux refers to how enjoyable the product is, while UI focuses on interactivity, look and feel of the product.
 
 <div align="center">
-<img src="profile/img/Develop.png" width="12%" style="text-align-all:center; ">
+<img src="profile/img/Develop.png" width="20%" style="text-align-all:center; ">
 </div>
 
 Creating your website and application is one of our top priorities as a company.
