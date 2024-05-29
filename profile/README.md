@@ -1,12 +1,4 @@
-## Hi there 👋
+# I AM HORIN.
+## one time for ever. I don't say hello and I don't reply. But there is no reason for you not to respect me and greet me loudly.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This is the place where you can contact us if you wish, but before that you should have learned that you should communicate with us in the framework specified here (git).
