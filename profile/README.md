@@ -1,5 +1,5 @@
 <div align="center">
-<img src="profile/img/horin.png" width="50%" style="text-align-all:center; ">
+<img src="profile/img/header.png" width="50%" style="text-align-all:center; ">
 </div>
 
 # I AM HORIN.
@@ -19,6 +19,10 @@
 <img src="profile/img/Design.png" width="20%" style="text-align-all:center; ">
 </div>
 in product design, ux refers to how enjoyable the product is, while UI focuses on interactivity, look and feel of the product.
+
+<div align="center">
+<img src="profile/img/developheader.jpg" width="100%" style="text-align-all:center; ">
+</div>
 
 <div align="center">
 <img src="profile/img/Develop.png" width="20%" style="text-align-all:center; ">
