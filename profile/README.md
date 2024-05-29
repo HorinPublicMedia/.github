@@ -1,5 +1,5 @@
 <div align="center">
-<img src="profile/img/header.png" width="50%" style="text-align-all:center; ">
+<img src="profile/img/header.png" width="100%" style="text-align-all:center; ">
 </div>
 
 # I AM HORIN.
